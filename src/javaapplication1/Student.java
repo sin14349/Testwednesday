@@ -7,6 +7,7 @@ package javaapplication1;
 /**
  *
  * @author davin
+ king 
  */
 class Student {
 

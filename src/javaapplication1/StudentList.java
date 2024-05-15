@@ -8,7 +8,7 @@ package javaapplication1;
  *
  * modified by 
  * @author Davinder
- * making a change in NetBeans
+ * waheguru
  */
 public class StudentList {
     
